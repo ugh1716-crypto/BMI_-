@@ -1,0 +1,22 @@
+[
+    {
+        "id": "P2026-0001",
+        "name": "홍길동",
+        "birth_year": 2000,
+        "gender": "남",
+        "height": 175.0,
+        "weight": 70.0,
+        "bmi": 22.86,
+        "status": "정상"
+    },
+    {
+        "id": "P2026-0002",
+        "name": "김영희",
+        "birth_year": 2001,
+        "gender": "여",
+        "height": 162.0,
+        "weight": 52.0,
+        "bmi": 19.81,
+        "status": "정상"
+    }
+]
